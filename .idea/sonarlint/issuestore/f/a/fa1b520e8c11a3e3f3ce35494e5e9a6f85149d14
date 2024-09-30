@@ -1,0 +1,13 @@
+
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñí¸ø
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(´¹Ãšúÿÿÿÿ
+U
+java:S1161%":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(æŸ™üÿÿÿÿ
+y
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâŞáøÿÿÿÿ
+@	java:S106D"+Replace this use of System.out by a logger.( €§
+E	java:S106E"+Replace this use of System.out by a logger.(­¶ùüÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(…Ÿ¤ÿ
+@	java:S106Z"+Replace this use of System.out by a logger.(Ğ»ñª
